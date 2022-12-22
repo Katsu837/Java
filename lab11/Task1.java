@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Task1 {
     public static void main(String[] args) {
-        System.out.println("Матросов 17.11.2022 17:00");
+        System.out.println("Подколзин 17.11.2022 17:00");
         System.out.println(new Date());
     }
 }
